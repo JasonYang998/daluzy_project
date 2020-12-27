@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">大路子分享</string>
+    <string name="data_error">数据异常</string>
+    <string name="mine">我的</string>
+    <string name="joke">笑话</string>
+    <string name="news">新闻</string>
+    <string name="shop">商城</string>
+    <string name="nothing_tv">没有相应的数据</string>
+    <string name="men_s">男装</string>
+    <string name="daily_use">家庭日用</string>
+    <string name="women_shoes">女鞋</string>
+    <string name="women_s">女装</string>
+    <string name="cell_phone">手机</string>
+    <string name="children_wear">童装</string>
+    <string name="watch_glasses">腕表眼镜</string>
+    <string name="luggage">箱包</string>
+
+</resources>
